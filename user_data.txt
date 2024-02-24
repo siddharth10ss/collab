@@ -1,0 +1,21 @@
+Name: Siddharth, Injured: 2, Number: , Description: nil, Phone: 8072369670, Latitude: 10.7984022, Longitude: 78.7436852, Photo: uploads/Screenshot 2024-01-25 190154.png
+Name: Siddharth, Injured: 2, Number: , Description: nil, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (1).png
+Name: Siddharth, Injured: 2, Number: , Description: nil, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (1).png
+Name: Siddharth, Injured: 2, Number: , Description: nil, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (1).png
+Name: siddharth, Injured: 2, Number: , Description: vdsa, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/
+Name: sd, Injured: 1, Number: , Description: jjjjjjjl, Phone: 8072369670, Latitude: 10.7983601, Longitude: 78.7436927, Photo: uploads/Screenshot (7).png
+Name: sd, Injured: 1, Description: jjjjjjjl, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (9).png
+Name: siddharth, Injured: 1, Description: ad, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (6).png
+Name: siddharth, Injured: 1, Description: ad, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (6).png
+Name: siddharth, Injured: 1, Description: ad, Phone: 8072369670, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (6).png
+Name: RFEF, Injured: 5, Description: RTHHRTH, Phone: 9876543458, Latitude: 13.0383872, Longitude: 80.1636352, Photo: uploads/
+Name: RFEF, Injured: 5, Description: RTHHRTH, Phone: 9876543458, Latitude: 13.0383872, Longitude: 80.1636352, Photo: uploads/Screenshot (9).png
+Name: deepa, Injured: 40, Description: bcjachk x, Phone: 9443787782, Latitude: 10.95614, Longitude: 78.7539346, Photo: uploads/Screenshot (10).png
+Name: RFEF, Injured: 4, Description: EWVEVW, Phone: 9876543458, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Dark Patterns Buster Hackathon (DPBH-2023).png
+Name: RFEF, Injured: 4, Description: EWVEVW, Phone: 9876543458, Latitude: , Longitude: , Photo: uploads/Nick.png
+Name: RFEF, Injured: 4, Description: EWVEVW, Phone: 9876543458, Latitude: , Longitude: , Photo: uploads/Screenshot (146).png
+Name: siddharth, Injured: 4, Description: fdsvdv, Phone: 9443787782, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (23).png
+Name: siddharth, Injured: 4, Description: fdsvdv, Phone: 9443787782, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (17).png
+Name: assd, Injured: 524, Description: ceaeca, Phone: 9876543458, Latitude: 10.8075155, Longitude: 78.7362734, Photo: uploads/Screenshot (109).png
+Name: assd, Injured: 524, Description: ceaeca, Phone: 9876543458, Latitude: , Longitude: , Photo: uploads/Screenshot (6).png
+Name: asdc, Injured: 3, Description: acEEVSEECAQEC, Phone: 8072369670, Latitude: 10.7840206, Longitude: 78.771695, Photo: uploads/Screenshot (150).png

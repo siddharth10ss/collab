@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: url('bg.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* Dark text color */
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9); /* White background for the form with some transparency */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+input[type="submit"] {
+    background-color: #2ecc71;
+}
+
+input[type="submit"]:hover {
+    background-color: #27ae60;
+}
+
+/* Responsive styles */
+
+@media only screen and (max-width: 600px) {
+    form {
+        max-width: 100%;
+    }
+}
+
