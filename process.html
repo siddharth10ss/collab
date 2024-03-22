@@ -24,34 +24,48 @@
 <body>
     <h1>Enter Your Information</h1>
     <!-- Ensure the names match the keys used in your PHP script -->
-<form action="process.php" method="post" enctype="multipart/form-data">
-    <label for="username">Name:</label>
-    <input type="text" id="username" name="username" required>
+    <form action="process.php" method="post" enctype="multipart/form-data">
+        <label for="username">Name:</label>
+        <input type="text" id="username" name="username" required>
 
-    <label for="latitude">Latitude:</label>
-    <input type="text" id="latitude" name="latitude" readonly>
+        <label for="latitude">Latitude:</label>
+        <input type="text" id="latitude" name="latitude" readonly>
 
-    <label for="longitude">Longitude:</label>
-    <input type="text" id="longitude" name="longitude" readonly>
+        <label for="longitude">Longitude:</label>
+        <input type="text" id="longitude" name="longitude" readonly>
 
-    <label for="injured">Number of Injured:</label>
-    <input type="number" id="injured" name="injured" required>
+        <div style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+                <label for="injured">Number of Injured:</label>
+                <input type="number" id="injured" name="injured" required>
+            </div>
+            <div style="flex: 1; margin-left: 20px;">
+                <label for="injury_type">Type of Injury:</label>
+                <select id="injury_type" name="injury_type">
+                    <option value="Fracture">Fracture</option>
+                    <option value="Burn">Burn</option>
+                    <option value="Head Injury">Head Injury</option>
+                    <option value="Sprain/Strain">Sprain/Strain</option>
+                    <!-- Add more options as needed -->
+                </select>
+            </div>
+        </div>
 
-    <label for="description">Description:</label>
-    <textarea id="description" name="description" rows="4" cols="50" required></textarea>
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="4" cols="50" required></textarea>
 
-    <label for="phonenumber">Phone Number:</label>
-    <input type="tel" id="phonenumber" name="phonenumber" required pattern="[0-9]{10}" placeholder="Enter a 10-digit phone number">
+        <label for="phonenumber">Phone Number:</label>
+        <input type="tel" id="phonenumber" name="phonenumber" required pattern="[0-9]{10}" placeholder="Enter a 10-digit phone number">
 
-    <label for="photo">Upload Photo:</label>
-    <input type="file" id="photo" name="photo">
+        <label for="photo">Upload Photo:</label>
+        <input type="file" id="photo" name="photo">
 
-    <button type="button" onclick="getLocation()">Get Geo Location</button>
+        <button type="button" onclick="getLocation()">Get Geo Location</button>
 
-    <br>
-    <input type="submit" value="Submit">
-</form>
-
+        <br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
+
 
